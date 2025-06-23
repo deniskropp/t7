@@ -1,4 +1,3 @@
-```markdown
 # t7 Repository - Structured Narrative Scene Data
 
 This repository, `deniskropp/t7`, serves as a collection point for structured data representing narrative scenes. The primary goal is to provide detailed, machine-readable scene information suitable for various applications in narrative understanding, generation, and visualization, such as automated scene generation, script analysis, interactive storytelling, or training AI models.
@@ -34,4 +33,3 @@ The data within this repository is made available under [Specify License Here, e
 ## Credits
 
 [Add Author/Project Credits Here]
-```
