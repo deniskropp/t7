@@ -1,4 +1,3 @@
-```markdown
 # Unexpected Visitors: Narrative Scenes and Data
 
 This repository contains structured data representing narrative scenes focused on the theme of unexpected and overstaying houseguests, and the resulting social dynamics and conflicts. The data is designed for potential use in applications like automated scene generation, interactive storytelling, script analysis, or training AI models for narrative understanding and generation.
@@ -83,4 +82,3 @@ The different versions of scene files (with and without embedded actions/shots) 
 ## Credits
 
 [Add author or project credits here]
-```
