@@ -137,9 +137,3 @@ An example snippet from `script/0.json`:
 ```
 
 More details on the structure can be found in `0002/README.md`.
-
-## Common Data Elements
-
-Both datasets (`0001` and `0002`) utilize a similar underlying structure for representing narrative beats, including:
-
-*   
